@@ -257,7 +257,7 @@ constructor(themes, html) {
   this.html = html;
   this.init();
 }
-
+CHANGESSSSSSS
 init() {
   const theme = this.getThemeFromLocalStorage();
   if (theme) {
